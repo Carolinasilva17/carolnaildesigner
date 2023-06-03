@@ -1,0 +1,15 @@
+body {
+    background-color: #F1BCE2;
+}
+
+.imagem {
+    width: 1250px;
+    height: 600px;
+    left: 20%;
+    top: 30%;
+}
+
+.nome {
+    top: 20%;
+    left: 20%;
+}

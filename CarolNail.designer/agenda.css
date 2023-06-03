@@ -1,0 +1,80 @@
+body {
+    background-color: #F1BCE2;
+    width: 300px;
+    height: 250px;
+    font-style: bold;
+    font-family: "Verdana";
+}
+
+.logo {
+    position: absolute;
+    width: 1100px;
+    height: 750px;
+    left: 10%;
+    top: -3%;
+}
+
+.name {
+    color: #4d0137;
+    position: absolute;
+    font-size: 40px;
+    top: 12%;
+    left: 28%;
+}
+
+.email {
+    color: #4d0137;
+    position: absolute;
+    font-size: 40px;
+    top: 26%;
+    left: 28%;
+}
+
+.telefone {
+    color: #4d0137;
+    position: absolute;
+    font-size: 40px;
+    top: 40%;
+    left: 28%;
+}
+
+.tipo-de-serviço-desejado {
+    color: #4d0137;
+    position: absolute;
+    font-size: 40px;
+    top: 50%;
+    left: 28%;
+}
+
+.option-1 {
+    background-color: #F1BCE2;
+    color: #4d0137;
+    position: absolute;
+    font-size: 15px;
+}
+
+.data {
+    color: #4d0137;
+    position: absolute;
+    font-size: 40px;
+    top: 170%;
+    left: 1%;
+}
+
+.option-2 {
+    background-color: #F1BCE2;
+    color: #4d0137;
+}
+
+.button_enviar {
+    background-color: #ff04b8;
+    color: #4d0338;
+    font-size: 14px;
+    border-radius: 50px;
+    width: 4%;
+    padding: 2%;
+    position: absolute;
+    top: 90%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+}

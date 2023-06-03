@@ -1,0 +1,16 @@
+body {
+    background-color: #F1BCE2;
+}
+
+.title {
+    width: 900px;
+    font-family: monospace;
+    font-size: 40px;
+    color: #610346;
+}
+
+.img {
+    width: 400px;
+    position: absolute;
+    left: 30%;
+}

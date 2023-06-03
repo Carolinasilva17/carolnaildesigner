@@ -1,0 +1,54 @@
+body {
+    background-color: #F1BCE2;
+    color: #b80585;
+}
+
+.title {
+    width: 300px;
+    line-break: auto;
+    font-family: monospace;
+    font-size: 18px;
+    color: #610346;
+}
+
+.logo {
+    width: 80px;
+}
+
+.nome {
+    position: absolute;
+    top: 6%;
+    left: 6%;
+}
+
+.imagem {
+    position: absolute;
+    border-radius: 20px;
+    width: 290px;
+    top: 6%;
+    left: 70%;
+}
+
+.calendario {
+    background-color: #ff04b8;
+    color: #4d0338;
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 15px;
+    position: absolute;
+    top: 95%;
+    left: 4%;
+    transform: translate(-20%, -40%);
+}
+
+.button_agendar {
+    background-color: #ff04b8;
+    color: #4d0338;
+    font-size: 15px;
+    border-radius: 30px;
+    padding: 15px;
+    position: absolute;
+    top: 95%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+}
